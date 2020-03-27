@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="label_biometric_authentication">Authenticate</string>
+    <string name="label_menu_biometric_authentication">Biometric Authentication</string>
+    <string name="label_menu_api_implementation">REST API Implementation</string>
+    <string name="title_biometric_dialog">Biometric Authentication</string>
+    <string name="subtitle_biometric_dialog">Biometric authentication for Test App</string>
+    <string name="label_biometric_negative_button">Cancel</string>
+</resources>

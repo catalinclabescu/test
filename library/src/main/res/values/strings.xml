@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="message_auth_error_default">Fingerprint authentication failed!</string>
+</resources>
